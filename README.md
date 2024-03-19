@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nitish Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<lmg src="https://media.giphy.com/media/K5kfQEx...​"
+lmg src="https://media.giphy.com/media/K5kfQEx...​"
 
-- 🌱 I’m currently learning **Web development**
+
+- 🌱  I’m currently learning **Web development**
 
 - 👨‍💻 All of my projects are available at [Check out Nitish Kumar’s profile on LinkedIn https://in.linkedin.com/in/nitish-kumar-3b6b22269](Check out Nitish Kumar’s profile on LinkedIn https://in.linkedin.com/in/nitish-kumar-3b6b22269)
 
